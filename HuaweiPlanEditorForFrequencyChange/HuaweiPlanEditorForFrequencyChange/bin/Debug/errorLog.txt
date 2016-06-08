@@ -1,0 +1,636 @@
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='3500'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3518'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3501'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3502'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='3'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3519'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3520'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='140'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='53'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='21'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='0'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='1014'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='4018'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='1026'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='47'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='56'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='40'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='2027'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='1043'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4029'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='2366'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='127'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='4038'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='136'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='92'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='1000'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='2003'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2321'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2324'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='1005'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='1023'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='2016'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='49'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='1040'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='8'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='43'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='4073'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='91'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4004'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='2030'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='34'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4033'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2392'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='4045'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='22'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2340'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2367'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2370'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='65'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='45'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='35'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='79'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4035'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='2052'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='77'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='2023'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='1001'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='2004'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='1008'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='1'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='62'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='1049'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='2049'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='131'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='92'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='141'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='2001'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2304'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4013'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='4016'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='6'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='1'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='4027'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='2028'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='4033'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='6'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='128'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='100'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='69'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='37'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='1015'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='90'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2301'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='54'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='42'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='51'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='41'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='2031'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='112'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2305'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='25'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='1016'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='52'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='38'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='2044'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4040'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='43'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='2012'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='0'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='4034'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='1062'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='2053'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4051'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='52'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='7'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='2015'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4031'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='36'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='4068'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2302'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='84'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='4'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='61'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='42'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='72'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4035'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='4047'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='7'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='98'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='48'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4014'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='2'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='1028'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='1034'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='4028'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='70'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='1045'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='4'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='129'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4043'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='40'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4051'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2339'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2369'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='67'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='50'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='1037'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='1051'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='2000'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='4012'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='36'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='5'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='2013'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='4026'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='110'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='5'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='46'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='102'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='1003'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='103'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='2319'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='105'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='4070'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3530'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='4100'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='4120'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2408'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4056'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2310'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='4106'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='4115'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ04' and CELLID='4079'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='29'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='4068'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4053'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4080'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='100'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='4089'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2409'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ04' and CELLID='4103'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='4118'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4069'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ04' and CELLID='4090'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ04' and CELLID='4087'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='33'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4067'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3532'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4127'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='4073'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4075'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ04' and CELLID='4252'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ01' and CELLID='24'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='27'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='86'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='25'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='26'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='29'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2381'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2402'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ01' and CELLID='124'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='106'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2348'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2354'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2357'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2330'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2345'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='2387'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2334'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='107'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2355'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2314'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2346'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2349'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2358'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2364'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='2388'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='2328'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2331'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='2383'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2315'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='2404'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='126'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2318'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='116'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2356'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2332'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2335'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2350'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='2362'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2347'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2333'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='2336'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2372'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2351'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='2378'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='2337'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2400'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2379'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='2338'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='2374'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='2380'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ04' and CELLID='4078'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4000'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4003'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4006'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3503'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4026'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='121'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='4027'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='118'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='4030'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='3548'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3563'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='2393'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='4064'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3572'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3509'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='96'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3504'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3549'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3551'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4001'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3521'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3536'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3539'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3545'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='144'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='4007'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ01' and CELLID='109'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3507'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3515'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3533'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ01' and CELLID='147'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3555'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3582'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='4004'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3527'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3542'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='4040'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3558'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3579'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3552'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='4038'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='148'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='4056'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='97'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3505'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3514'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3556'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3580'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3511'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3516'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ03' and CELLID='3525'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3540'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3570'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3522'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3528'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='4032'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3550'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='123'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3534'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3537'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3543'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ01' and CELLID='145'
+ Affected Rows: 3
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3565'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='4011'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='111'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3557'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ03' and CELLID='3512'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='3517'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3526'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='0' where BSCName='BSGZ03' and CELLID='3538'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3544'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3547'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='6' where BSCName='BSGZ03' and CELLID='3571'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ01' and CELLID='95'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3535'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='3' where BSCName='BSGZ03' and CELLID='3541'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='4' where BSCName='BSGZ01' and CELLID='146'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3562'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ03' and CELLID='3506'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ03' and CELLID='3508'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='5' where BSCName='BSGZ03' and CELLID='3575'
+ Affected Rows: 2
+Error: update [GCELLMAGRP$] set TSC='7' where BSCName='BSGZ04' and CELLID='4002'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='2' where BSCName='BSGZ04' and CELLID='4003'
+ Affected Rows: 0
+Error: update [GCELLMAGRP$] set TSC='1' where BSCName='BSGZ01' and CELLID='33'
+ Affected Rows: 0
+Error: update [GCELLFREQ_FREQ$] set FREQ = '', BSCName = '', CELLID='',CELLNAME='' where FREQ <> 'Frequency';
+ Affected Rows: 5772

@@ -1,0 +1,2 @@
+Error: update [GCELLFREQ_FREQ$] set FREQ = '', BSCName = '', CELLID='',CELLNAME='' where BSCName <> 'BSC Name';
+ Affected Rows: 2088

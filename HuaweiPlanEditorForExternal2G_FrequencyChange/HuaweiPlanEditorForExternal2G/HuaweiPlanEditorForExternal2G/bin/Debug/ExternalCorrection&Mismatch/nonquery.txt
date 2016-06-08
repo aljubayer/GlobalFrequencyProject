@@ -1,0 +1,11 @@
+update [GEXT2GCELL$] set BCCH = '29' where LAC='876' and CI='11531';
+update [GEXT2GCELL$] set BCCH = '38' where LAC='876' and CI='11533';
+update [GEXT2GCELL$] set BCCH = '42' where LAC='876' and CI='1941';
+update [GEXT2GCELL$] set BCCH = '34' where LAC='876' and CI='1942';
+update [GEXT2GCELL$] set BCCH = '44' where LAC='876' and CI='7231';
+update [GEXT2GCELL$] set BCCH = '46' where LAC='876' and CI='7232';
+update [GEXT2GCELL$] set BCCH = '50' where LAC='876' and CI='7233';
+update [GEXT2GCELL$] set BCCH = '27' where LAC='876' and CI='25902';
+update [GEXT2GCELL$] set BCCH = '42' where LAC='876' and CI='50831';
+update [GEXT2GCELL$] set BCCH = '33' where LAC='876' and CI='50832';
+update [GEXT2GCELL$] set BCCH = '28' where LAC='876' and CI='50833';

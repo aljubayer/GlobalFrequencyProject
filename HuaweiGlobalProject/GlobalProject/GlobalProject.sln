@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalProject", "GlobalProject\GlobalProject.csproj", "{B8205737-19D1-44BF-8111-A6232179BFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiPlanEditorForFrequencyChange", "..\..\HuaweiPlanEditorForFrequencyChange\HuaweiPlanEditorForFrequencyChange\HuaweiPlanEditorForFrequencyChange.csproj", "{945AFABF-D23A-4A39-9433-8D5D08D4D381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiPlanEditorForHoppingSettings", "..\..\HuaweiPlanEditorForHoppingSettings\HuaweiPlanEditorForHoppingSettings\HuaweiPlanEditorForHoppingSettings.csproj", "{AE136828-247D-4A1F-8062-B893E26B3B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuaweiPlanEditorForExternal2G", "..\..\HuaweiPlanEditorForExternal2G_FrequencyChange\HuaweiPlanEditorForExternal2G\HuaweiPlanEditorForExternal2G\HuaweiPlanEditorForExternal2G.csproj", "{F8DD2E41-C2B6-4123-9A1D-4F967FA7686D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8205737-19D1-44BF-8111-A6232179BFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8205737-19D1-44BF-8111-A6232179BFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8205737-19D1-44BF-8111-A6232179BFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8205737-19D1-44BF-8111-A6232179BFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945AFABF-D23A-4A39-9433-8D5D08D4D381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945AFABF-D23A-4A39-9433-8D5D08D4D381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945AFABF-D23A-4A39-9433-8D5D08D4D381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945AFABF-D23A-4A39-9433-8D5D08D4D381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE136828-247D-4A1F-8062-B893E26B3B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE136828-247D-4A1F-8062-B893E26B3B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE136828-247D-4A1F-8062-B893E26B3B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE136828-247D-4A1F-8062-B893E26B3B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DD2E41-C2B6-4123-9A1D-4F967FA7686D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DD2E41-C2B6-4123-9A1D-4F967FA7686D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DD2E41-C2B6-4123-9A1D-4F967FA7686D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DD2E41-C2B6-4123-9A1D-4F967FA7686D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

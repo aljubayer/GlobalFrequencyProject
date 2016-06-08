@@ -1,0 +1,37 @@
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0154_1, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch: Source Cell: DHK_X0154_1, Neighbor Cell: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0154_1, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X1724_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X1724_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2591_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2591_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_1, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_1, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_3, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4084_3, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0154_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0154_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0335_3, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0335_3, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2591_1, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2591_1, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2630_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2630_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch: Source Cell: DHK_X0979_3, Neighbor Cell: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0979_3, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X0979_3, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2628_2, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2628_2, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2628_3, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2628_3, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4036_1, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X4036_1, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_B5449_4, Neighbor Cell 1: DHK_X0154_1, Neighbor Cell 2: DHK_X0979_3, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_B5449_4, Neighbor Cell 1: DHK_X0979_3, Neighbor Cell 2: DHK_X0154_1, BCCH: 29, NCC: 0, BCC: 3;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2592_1, Neighbor Cell 1: DHK_X1195_1, Neighbor Cell 2: DHK_X2593_3, BCCH: 42, NCC: 4, BCC: 0;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2592_1, Neighbor Cell 1: DHK_X2593_3, Neighbor Cell 2: DHK_X1195_1, BCCH: 42, NCC: 4, BCC: 0;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2593_2, Neighbor Cell 1: DHK_X1195_1, Neighbor Cell 2: DHK_X2593_3, BCCH: 42, NCC: 4, BCC: 0;BCCH-BSIC Conflict
+Mismatch Beetween 2 Neighbors:Source Cell: DHK_X2593_2, Neighbor Cell 1: DHK_X2593_3, Neighbor Cell 2: DHK_X1195_1, BCCH: 42, NCC: 4, BCC: 0;BCCH-BSIC Conflict
